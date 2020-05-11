@@ -1,14 +1,19 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+        "level": "3",
+        "map": "assets/images/PGlevel3.jpg",
+        "description": [
+          {
+            "logo": "assets/images/information.jpg",
+            "logoDescription":
+                "Information Counter (Wheel Chair Loan and Baby Stroller Loan available)"
+          },
+          {
+            "logo": "assets/images/foodcourt.jpg",
+            "logoDescription": "Food Court"
+          },
+          {
+            "logo": "assets/images/medical.jpg",
+            "logoDescription": "Medical Clinic"
+          }
+        ]
+      },
