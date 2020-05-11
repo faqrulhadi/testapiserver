@@ -3,16 +3,16 @@
         "map": "assets/images/PGlevel3.jpg",
         "description": [
           {
-            "logo": "assets/images/information.jpg",
+            "logo": "https://images2.alphacoders.com/516/thumb-1920-516664.jpg",
             "logoDescription":
                 "Information Counter (Wheel Chair Loan and Baby Stroller Loan available)"
           },
           {
-            "logo": "assets/images/foodcourt.jpg",
+            "logo": "https://images2.alphacoders.com/606/thumb-1920-606275.jpg",
             "logoDescription": "Food Court"
           },
           {
-            "logo": "assets/images/medical.jpg",
+            "logo": "https://images5.alphacoders.com/589/thumb-1920-589333.jpg",
             "logoDescription": "Medical Clinic"
           }
         ]
