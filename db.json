@@ -4,29 +4,33 @@
         "description": [
           {
             "logo": "https://images2.alphacoders.com/516/thumb-1920-516664.jpg",
-            "logoDescription":
-                "batu pahat"
+            "title": "batu pahat",
+             "text": "johor"
           },
           {
             "logo": "https://images2.alphacoders.com/606/thumb-1920-606275.jpg",
-            "logoDescription": "shah alam"
+            "title": "shah alam",
+            "text": "selangor"
           },
           {
             "logo": "https://images5.alphacoders.com/589/thumb-1920-589333.jpg",
-            "logoDescription": "johor bahru"
+            "title": "johor bahru",
+            "text": "johor"
           },
                 {
             "logo": "https://images6.alphacoders.com/618/thumb-1920-618290.png",
-            "logoDescription":
-                "petaling jaya"
+            "title": "petaling jaya",
+            "text": "selangor"
           },
           {
             "logo": "https://images7.alphacoders.com/311/thumb-1920-311022.jpg",
-            "logoDescription": "kluang"
+            "title": "kluang",
+            "text":"perak"
           },
           {
             "logo": "https://images4.alphacoders.com/966/thumb-1920-96656.jpg",
-            "logoDescription": "mersing"
+            "title": "mersing",
+            "text": "kelantan"
           }
         ]
       }
